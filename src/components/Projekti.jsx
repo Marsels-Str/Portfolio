@@ -10,6 +10,7 @@ export default function Projekti() {
     <>
     <SpotlightWrapper>
         <h1>Mani Projekti</h1>
+        <p>Šeit būs mani projekti!</p>
     </SpotlightWrapper>
     
         {/* <CheckIn />
